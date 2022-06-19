@@ -1,2 +1,2 @@
-# Henry---Discord-Music-Bot
-A bot to play music on discord voice calls for myself and my friends
+# Henry the Discord Music Bot
+A bot named Henry to play music on discord voice calls for myself and my friends
