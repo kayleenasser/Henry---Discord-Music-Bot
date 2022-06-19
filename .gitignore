@@ -6,8 +6,8 @@ __pycache__/
 # C extensions
 *.so
 
-src/tokenbot
-src/silly_commands
+src/tokenbot.py
+src/silly_commands.py
 
 # Distribution / packaging
 .Python
